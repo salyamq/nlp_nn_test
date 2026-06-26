@@ -1,0 +1,9 @@
+pandas
+polars
+matplotlib
+seaborn
+numpy
+datasets
+torch
+scikit-learn
+loguru
